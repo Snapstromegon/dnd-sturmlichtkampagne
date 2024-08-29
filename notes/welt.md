@@ -41,3 +41,22 @@ Tara finden (auf dem Weg zu einem Gehöfft Hasenheim um Obst und Gemüse zu hole
 Mensch, jung, schwarzes Haar, leicht bräunliche haut
 
 azza ganovenanführerin
+
+Plings Mutter Marial
+
+südtor Heinreich
+
+
+Tatort:
+Stein mit Sichelmond mit Laute
+
+Taverne Abendlied - Puff:
+Schankmaid: Xonoria
+Besitzerin Xanaphia
+
+Naal Ring + Pulver abgenommen
+- Pulver fehlt noch (Bilbron Funkelstein-Klan Grotokarena)
+- Pulver in werkstatt kleiner schrank im grotokarena - lederbeutel "N" Aufdruck
+
+Grotokarena
+- öffentliche Show immer sonntag (übermorgen)
