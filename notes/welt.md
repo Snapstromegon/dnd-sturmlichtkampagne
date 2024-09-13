@@ -34,29 +34,33 @@ Vollmond, 1h dunkel
 wachen haben fallgitter runtergelassen
 kein Einlass nach Fallgitter
 
-
-junger hagerer Halbelf mit vielen kleinen Bissen mit Schnurrhaarbart
-
-Tara finden (auf dem Weg zu einem Gehöfft Hasenheim um Obst und Gemüse zu holen vor 3 Tagen los)
-Mensch, jung, schwarzes Haar, leicht bräunliche haut
-
-azza ganovenanführerin
-
+Rasselkiste:
+Sohn Pling
 Plings Mutter Marial
+
 
 südtor Heinreich
 
 
-Tatort:
-Stein mit Sichelmond mit Laute
-
-Taverne Abendlied - Puff:
-Schankmaid: Xonoria
-Besitzerin Xanaphia
-
-Naal Ring + Pulver abgenommen
-- Pulver fehlt noch (Bilbron Funkelstein-Klan Grotokarena)
-- Pulver in werkstatt kleiner schrank im grotokarena - lederbeutel "N" Aufdruck
-
 Grotokarena
 - öffentliche Show immer sonntag (übermorgen)
+
+
+gott des schutzes und lichts: Helm (höchst verehrt)
+
+
+Hugor Hufmeister? Zucht für exotische Reittiere im inneren Ring
+
+
+Großkaserne:
+- 4 wachen vor der Tür
+- Wachen auf den Mauern
+- alles abgedeckt
+- Eisen Fallgitter
+
+? Durchbruch zu Haus des Rechts?
+
+Haus des Rechts:
+- 4 Wachen
+- Doppelflügelige Eisentür
+- Fenster oben - runde Buntglasfenster mit Eisengittern
