@@ -1,4 +1,6 @@
-Stadt: Sturmlicht
+Jahr 3442
+
+Stadt: Sturmlicht früher Flusswacht
 bedroht durch wildnis
 aufgeteilt in 4 Ringe
 innerer, mittlerer, äußerer Ring + Umland
@@ -64,3 +66,22 @@ Haus des Rechts:
 - 4 Wachen
 - Doppelflügelige Eisentür
 - Fenster oben - runde Buntglasfenster mit Eisengittern
+
+Eintritt alleine in den mittleren Ring:
+"Genri" + 5 Gold
+
+Mittlerer Ring Schmiede:
+Darnak Goldhammer
+
+Neben an Tempel von Silvanus Gott der wilden Natur
+Gartenanlage
+Wasserspeiende Statue von Silvanus
+Wagenrennen 1000 Gold Startgebühr 50 Gold große Arena Anmeldung bei Betreiber bis 5 Tage vorher
+Anmeldung bis in 10 Tagen
+Symbol der Arena: Großes Oval wie Arena
+Büro der Arena ist südlich
+
+Alte Abenteurergilde
+
+Selina + alter weißbärtiger Zwerg als letzt Mitglieder
+Selina seit 2 Tagen nicht mehr gesehen
