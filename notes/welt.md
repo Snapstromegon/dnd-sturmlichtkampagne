@@ -51,7 +51,7 @@ Grotokarena
 gott des schutzes und lichts: Helm (höchst verehrt)
 
 
-Hugor Hufmeister? Zucht für exotische Reittiere im inneren Ring
+Hugo Huftritt? Zucht für exotische Reittiere im inneren Ring
 
 
 Großkaserne:
@@ -80,6 +80,7 @@ Wagenrennen 1000 Gold Startgebühr 50 Gold große Arena Anmeldung bei Betreiber 
 Anmeldung bis in 10 Tagen
 Symbol der Arena: Großes Oval wie Arena
 Büro der Arena ist südlich
+Wetten offiziell (auf Sieg) und inoffiziell (Benjamin Wettenmacher, nordlich der Arena vor Rennen)
 
 Alte Abenteurergilde
 
