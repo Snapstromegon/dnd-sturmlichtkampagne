@@ -4,6 +4,7 @@ Stadt: Sturmlicht früher Flusswacht
 bedroht durch wildnis
 aufgeteilt in 4 Ringe
 innerer, mittlerer, äußerer Ring + Umland
+20k Einwohner
 
 Farmenring gibt es nicht mehr
 
@@ -86,3 +87,14 @@ Alte Abenteurergilde
 
 Selina + alter weißbärtiger Zwerg als letzt Mitglieder
 Selina seit 2 Tagen nicht mehr gesehen
+
+
+putzkraft gesucht mittlerer ring
+
+Stadt- / Grenzwache jeweils von 2 aus dem Rat der 20 kontrolliert
+Im Krisenfall übernimmt der Kaelyn Silberklinge (Schlüsselträger der städtischen Sicherheit) beides
+
+erdan familie galanodel haus 17
+
+handwerkshaus gordislans baumeister südlich der 10
+
