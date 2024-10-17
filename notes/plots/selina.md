@@ -27,3 +27,7 @@ Mensch wiederbelebt
 höhle zwei Ausgänge - einmal Spalt nach unten, einmal gang
 
 gold-kupfer arn-70
+
+Brugas Edelschwarzer
+
+Zellennachbar wurde von Elfen abgeholt (mit Tonfolge) Helm beschütze mich
