@@ -98,3 +98,12 @@ erdan familie galanodel haus 17
 
 handwerkshaus gordislans baumeister südlich der 10
 
+
+Heilung:
+Alchemistenhaus Dunst und Tiegel
+Magiergilde
+Tempel des Helm
+
+Ukentro Kleinfeder
+
+
