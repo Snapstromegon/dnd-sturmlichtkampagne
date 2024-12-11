@@ -107,3 +107,5 @@ Tempel des Helm
 Ukentro Kleinfeder
 
 
+
+Myrdin stellt mit Goldhammer magische Waffen her
