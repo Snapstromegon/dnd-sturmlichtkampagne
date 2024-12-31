@@ -109,3 +109,14 @@ Ukentro Kleinfeder
 
 
 Myrdin stellt mit Goldhammer magische Waffen her
+
+
+
+
+
+
+
+Taverne im Außenland
+"Bewirte" auf gnomisch
+
+Taverne im blutenden Wald
