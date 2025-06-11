@@ -14,3 +14,22 @@ artefakt zum unterwasse atmen im Tempel der Umberlee (Göttin des Meers / Domän
 
 Artefakt:
 Radius 500m Wasseratmung und schnelles Schwimmen
+
+
+
+
+# Aquarespirator:
+
+36m unterwasser atmen, wenn Artefakt in Wasser
+Aquarespirator von Paul geklaut und an Abendlied gegeben
+
+Sprechen mit: Stadtrat bei Stadtverwaltung
+
+Silberklinge Vertretung: Wächter des Grenzlandes
+
+Bauleiter Schahied für Rettungsarbeiten
+
+
+Schlüsselträgerin der städtischen Sicherheit: Kaelyn Silberklinge ist draußen -> Gnome wollen die Burg und Stadt einnehmen
+
+Wollen als erstes Diebesgilde ausheben
