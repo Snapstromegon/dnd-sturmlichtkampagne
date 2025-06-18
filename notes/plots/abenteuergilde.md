@@ -14,3 +14,21 @@ Malenia
 Broschen statt Abzeichen
 Edle Variante: 45-50Gold
 Messing: 35-40 Gold
+
+5000 Gold bis Ende des Jahres
+
+
+Mitglieder:
+- Gorok
+- Selina
+
+
+Zimmer:
+1. -
+2. -
+3. Hopp
+4. Kropp
+5. Milo
+6. Pliak
+
+Der Gesandte des Aurionis Syfor 
