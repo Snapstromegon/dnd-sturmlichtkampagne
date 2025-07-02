@@ -32,3 +32,7 @@ Zimmer:
 6. Pliak
 
 Der Gesandte des Aurionis Syfor 
+
+## Abenteurer
+- Borilla (gnom) + Burgel (gnom) (mechanische Gerätschaften)
+- Helena Köchin

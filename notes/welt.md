@@ -112,7 +112,7 @@ Myrdin stellt mit Goldhammer magische Waffen her
 
 
 
-
+Berian Aloro Elf Meister der Bauwerke
 
 
 
