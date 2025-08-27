@@ -120,3 +120,6 @@ Taverne im Außenland
 "Bewirte" auf gnomisch
 
 Taverne im blutenden Wald
+
+
+Philosia Hanali arbeitet mit Erewan's Mutter zusammen
