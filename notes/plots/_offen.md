@@ -23,3 +23,10 @@
 ## Umland
 
 - was ist da draußen ?
+
+
+
+TARSIN Rat:
+Mach dich schlau, Wissen ist Macht, kenne deinen Feind.
+
+Buch an Leiche "Trollkiers verbotene Beschwörungen"
