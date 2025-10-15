@@ -13,4 +13,4 @@ Naal Ring + Pulver abgenommen
 - Pulver fehlt noch (Bilbron Funkelstein-Klan Grotokarena)
 - Pulver in werkstatt kleiner schrank im grotokarena - lederbeutel "N" Aufdruck
 
-Rheie 4 Spalte 16 Krops Gildenzugehörigkeit
+Reihe 4 Spalte 16 Krops Gildenzugehörigkeit

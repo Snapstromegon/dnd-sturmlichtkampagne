@@ -16,7 +16,8 @@ Herkunft:
 Ilisar -> Sturmlicht 20 Familien (Rat der 20) Zusammenschluss vor ca. 1000 Jahren Chaos Vorbereitung - unabhängig erklärt
 versammeln artefakte götterdiener und Helden
 
-Rat der 20 - Namen nicht bekannt
+Rat der 20
+- Namen nicht bekannt
 - regiert noch heute
 - wählt 5 schlüsselträger
 - haben alle macht

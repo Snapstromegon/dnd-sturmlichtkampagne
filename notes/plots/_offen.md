@@ -59,5 +59,10 @@ Weitere Verteilung stoppen von Augen
 Verteilte einsammeln
 Lysandra Silberlied gab Auftrag für Augen und liefert Dornen
 -> Soll in 5 Tagen zahlen
-Festlichkeiten Stalindrom
--> Milo Wache für Stalindrom bei Taschenkontrolle Augen raus nehmen
+Festlichkeiten Stadidrom
+-> Milo Wache für Stadidrom bei Taschenkontrolle Augen raus nehmen
+"Die süße Lisa" Wache in Kaserne
+
+Kampf in Arena
+Lysandra erledigt
+"Flattermann" fliegender Dämon tot
