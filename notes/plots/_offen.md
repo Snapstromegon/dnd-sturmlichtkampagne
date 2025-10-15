@@ -30,7 +30,7 @@ TARSIN Rat:
 Mach dich schlau, Wissen ist Macht, kenne deinen Feind.
 
 Buch an Leiche "Trollkiers verbotene Beschwörungen"
--> kommt aus Radhausbibliothek
+-> kommt aus Rathausbibliothek
 -> Nur Rat und engste Vertaute haben Zugriff
 
 Eine Heilstube die äußere Bezirke und Flüchtlinge beliefert hat "schlechte" Tränke herausgegeben
@@ -38,3 +38,26 @@ Eine Heilstube die äußere Bezirke und Flüchtlinge beliefert hat "schlechte" T
 Heilstube nördlich der Grotokarena neben Brauhaus
 
 Kraut in "komischen Rezept" Varkisknolle
+
+"Schutzamulett" schwach magisch (gebrochenes Auge)
+Hergestellt von Manufaktur Müller
+
+Um Tsaraklur zu befreien braucht man Zauber, der auf Magie Bannen basiert und muss im Abyss auf die Blitzgitter gewirkt werden
+
+Massenbeschwörung:
+Riesiges Pentagram
+Ring: Ebene und Fürst der Beschwörung
+Jede Zacke: der Name des Dämons
+Mitte: Zahle der Dämonen
+Zutaten:
+- Blut für Menge an Dämonen
+- Magisches Kerzenwachs
+
+
+Todos:
+Weitere Verteilung stoppen von Augen
+Verteilte einsammeln
+Lysandra Silberlied gab Auftrag für Augen und liefert Dornen
+-> Soll in 5 Tagen zahlen
+Festlichkeiten Stalindrom
+-> Milo Wache für Stalindrom bei Taschenkontrolle Augen raus nehmen
