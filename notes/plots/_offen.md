@@ -65,4 +65,20 @@ Festlichkeiten Stadidrom
 
 Kampf in Arena
 Lysandra erledigt
-"Flattermann" fliegender Dämon tot
+"Flattermann" fliegender Dämonen tot
+Affe tot
+
+Erdans Wase aus Ausgrabung im Tempel des Istishia SÜdwestlich von Sturmlicht (ca. 6 Tagesreisen)
+Istishia: Gottheit des Wassers -> Elementarfürst
+
+Gefangener Künstler / Maler:
+Varkul hat Lyssandra beauftragt
+Niemand mehr in der Stadt aus einem gewissen Standpunkt aus
+Caedryn sucht Tsaraklur -> ist Diener
+Kult hat in den letzten Monaten einige Häuser gekauft
+- eins an Söldnerin
+- eins an Lyssandra -> in der Nähe der Abenteurergilde (kenne das Haus)
+Großen Drei:
+1. Varkul
+2. Kaldurax
+3. Xylaris - Lord der Knochenschatten
