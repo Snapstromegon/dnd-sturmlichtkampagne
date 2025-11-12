@@ -81,4 +81,8 @@ Kult hat in den letzten Monaten einige Häuser gekauft
 Großen Drei:
 1. Varkul
 2. Kaldurax
-3. Xylaris - Lord der Knochenschatten
+3. Lord Xylaris der Knochenschatten
+
+Frosch Monster unter dem Stadidrom besiegt
+
+LEVEL UP!
