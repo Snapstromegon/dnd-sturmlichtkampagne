@@ -86,3 +86,14 @@ Großen Drei:
 Frosch Monster unter dem Stadidrom besiegt
 
 LEVEL UP!
+
+# Ratssitzung
+Vorsitzender der Landwirtschaft + Zwillinge Aloro sind nicht Begeistert von Erewans Ernennung
+Aloros: "Schande dass Erdan als Elf gestorben ist und Erewan als Mensch überlebt hat"
+
+
+# Kaylins Kiste
+viertel Sach 2152 Gold
+
+# Aufspürung Wildnis
+Quelle Baum mit bekannter Position (Tempel der Istishia) mit weit entferntem Sturmlicht
