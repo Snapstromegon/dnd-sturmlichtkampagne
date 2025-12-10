@@ -93,7 +93,27 @@ Aloros: "Schande dass Erdan als Elf gestorben ist und Erewan als Mensch überleb
 
 
 # Kaylins Kiste
-viertel Sach 2152 Gold
+viertel Sack 2152 Gold
 
 # Aufspürung Wildnis
-Quelle Baum mit bekannter Position (Tempel der Istishia) mit weit entferntem Sturmlicht
+Quelle Baum mit bekannter Position (Tempel des Istishia) mit weit entferntem Sturmlicht
+
+
+
+# Shoppingtour
+
+| Ort              | Item                            | Preis 1x | Anzahl | Gesamt |    Kaufen?     |
+| :--------------- | :------------------------------ | :------- | :----- | :----- | :------------: |
+| Arkane Grotte    | Elhonas Köcher                  | 300GM    | 1x     | 300GM  |       x        |
+| Arkane Grotte    | Nimmervoller Beutel             | 400GM    | 1x     | 400GM  |       x        |
+| Arkane Grotte    | Ring des Schutzes               | 2000GM   | 1x     | 2000GM |       x        |
+| Arkane Grotte    | Streitkolben des Zusammenbruchs | 5000GM   | 1x     | 5000GM |       x        |
+| Arkane Grotte    | Ring des Wiederstands           | 2500GM   | 1x     | 2500GM |                |
+| Arkane Grotte    | Schwurbogen                     | 8500GM   | 1x     | 8500GM |                |
+| Goldhammer       | Schild                          | 100GM    | 1x     | 100GM  |       x        |
+| Schutz und Segen | Anhänger des Giftschutzes       | 1500GM   | 1x     | 1500GM |                |
+| Magiergilde      | Robe der nützlichen Dinge       | 0        | 1x     | 0      | xxx (Rückgabe) |
+| Magiergilde      | Der Zauberstecken der Waldlande | 0        | 1x     | 0      |      XXX       |
+| Bogenmacher      | Bogen                           | 500GM    | 1x     | 500GM  |       x        |
+| Die Grüne Klinge | Heiltränke Mittel               | 100GM    | 6x     | 600GM  |       x        |
+| Die Grüne Klinge | Heiltränke Klein                | 50GM     | 2x     | 100GM  |       x        |
